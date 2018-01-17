@@ -86,10 +86,5 @@ int main()
               printf("Subbota");
         break;
     }
-
-
-
-
-
 return 0;
 }
