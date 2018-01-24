@@ -59,31 +59,31 @@ int main()
     switch(w)
     {
         case 0:
-              printf("Voskresenie");
+              printf("Sunday");
         break;
 
         case 1:
-              printf("Ponedelnik");
+              printf("Monday");
         break;
 
         case 2:
-              printf("Vtornik");
+              printf("Thusday");
         break;
 
         case 3:
-              printf("Sreda");
+              printf("Wednesday");
         break;
 
         case 4:
-              printf("4verg");
+              printf("Thursday");
         break;
 
         case 5:
-              printf("5nica");
+              printf("Friday");
         break;
 
         case 6:
-              printf("Subbota");
+              printf("Saturday");
         break;
     }
 return 0;
